@@ -2,7 +2,7 @@ const randomNumber = Math.floor(Math.random() * 10) + 1;
 
 let guess = parseInt(prompt("Guess a number between 1 and 10:"));
 
-if (guess === randomNumber) {
+if (guess === randomhen) {
     alert(" You guessed correctly.");
 } else {
     alert("Wrong guess! The correct number was " + randomNumber);

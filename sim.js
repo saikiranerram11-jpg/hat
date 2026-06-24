@@ -20,5 +20,5 @@ if (operator === "+") {
     result = "Invalid operator";
 }
 
-console.log(":", result);
+console.log("Result:", result);
 alert("Result: " + result);

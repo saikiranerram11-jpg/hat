@@ -17,7 +17,7 @@ if (operator === "+") {
         result = "Cannot divide by zero";
     }
 } else {
-    result = "Invalid operator";
+    result = "Invalid1 operator";
 }
 
 console.log("Result:", result);

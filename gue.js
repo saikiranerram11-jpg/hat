@@ -3,7 +3,7 @@ const randomNumber = Math.floor(Math.random() * 10) + 1;
 let guess = parseInt(prompt("Guess a number between 1 and 10:"));
 
 <<<<<<< HEAD
-if (guess === randomhen) {
+if (guess === randomhero) {
 =======
 if (guess === randomroad) {
 >>>>>>> you

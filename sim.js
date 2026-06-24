@@ -17,8 +17,8 @@ if (operator === "+") {
         result = "Cannot divide by zero";
     }
 } else {
-    result = "Invalid operator";
+    result = "valid operator";
 }
 
-console.log("Result:", result);
+console.log(":", result);
 alert("Result: " + result);
